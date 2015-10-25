@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b11b40b7-62f0-af49-a0a0-1a3a402a4b89++1874",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "395B4AF360359F6C51A7052788F955DA200F9A9F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "b11b40b7-62f0-af49-a0a0-1a3a402a4b89++1874" : {
+    "395B4AF360359F6C51A7052788F955DA200F9A9F" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "b11b40b7-62f0-af49-a0a0-1a3a402a4b89++1874" : 0
+    "395B4AF360359F6C51A7052788F955DA200F9A9F" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B8022D7A-6FE1-4E2D-8668-77D090F53B46",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "b11b40b7-62f0-af49-a0a0-1a3a402a4b89++1874" : "TodayAd\/"
+    "395B4AF360359F6C51A7052788F955DA200F9A9F" : "TodayAd\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "TodayAd",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/112.74.84.69",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b11b40b7-62f0-af49-a0a0-1a3a402a4b89++1874"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "395B4AF360359F6C51A7052788F955DA200F9A9F"
     }
   ]
 }
